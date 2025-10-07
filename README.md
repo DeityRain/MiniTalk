@@ -123,21 +123,7 @@ By completing this project, you’ll gain hands-on experience with:
 
 ## 👨‍💻 Author
 
-**Your Name**  
-📫 [your.email@example.com]  
-🧭 [github.com/yourusername](https://github.com/yourusername)
+**DeityRain**    
+🧭 [github.com/DeityRain](https://github.com/DeityRain)
 
 ---
-
-## 🏫 42 School Project
-
-This project is part of the **42 Core Curriculum**, focusing on inter-process communication (IPC), low-level programming, and system calls.
-
-> “Signals are simple… until you make them talk.”
-
----
-
-## 📜 License
-
-This project is distributed for educational purposes as part of the 42 curriculum.  
-You are free to use, modify, and share it under the terms of the 42 School policy.
