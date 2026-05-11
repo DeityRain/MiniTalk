@@ -1,4 +1,4 @@
-# 🛰️ Minitalk
+# Minitalk
 
 **Minitalk** is a small data exchange program written in **C** for **42 School**.  
 It allows a **client** to communicate a string message to a **server** process using **UNIX signals** (`SIGUSR1` and `SIGUSR2`).
@@ -17,7 +17,7 @@ This project is a great introduction to **process management**, **bitwise operat
 
 ---
 
-## ⚙️ Features
+## Features
 
 ✅ Communication using only `SIGUSR1` and `SIGUSR2`  
 ✅ Asynchronous, signal-based message handling  
@@ -27,7 +27,7 @@ This project is a great introduction to **process management**, **bitwise operat
 
 ---
 
-## 🧩 Compilation
+## Compilation
 
 To compile the project, simply run:
 
@@ -49,7 +49,7 @@ make re        # Rebuilds everything
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. **Start the server** in one terminal:
    ```bash
@@ -66,7 +66,7 @@ make re        # Rebuilds everything
 
 ---
 
-### 💬 Example
+### Example
 
 ```bash
 $ ./server
@@ -79,7 +79,7 @@ Received message: Hello, 42!
 
 ---
 
-## 🧵 Bonus (if implemented)
+## Bonus (if implemented)
 
 If you have completed the bonus part of the project, it may include:
 
@@ -90,7 +90,7 @@ If you have completed the bonus part of the project, it may include:
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - **Language:** C  
 - **Compiler:** `gcc`  
@@ -99,7 +99,7 @@ If you have completed the bonus part of the project, it may include:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -110,7 +110,7 @@ If you have completed the bonus part of the project, it may include:
 
 ---
 
-## 💡 Learning Outcomes
+## Learning Outcomes
 
 By completing this project, you’ll gain hands-on experience with:
 
@@ -121,7 +121,7 @@ By completing this project, you’ll gain hands-on experience with:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **DeityRain**    
 🧭 [github.com/DeityRain](https://github.com/DeityRain)
